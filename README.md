@@ -27,7 +27,7 @@ The dataset utilized in this study is sourced from Kaggle's "Loan Approval Class
 - `credit_score`: Applicant's credit score
 - `previous_loan_defaults_on_file`: Number of previous loan defaults
 
-The target variable, `loan_status`, indicates whether a loan application was approved or not. The dataset contains 10,000 instances, with no missing values reported.
+The target variable, `loan_status`, indicates whether a loan application was approved or not. The dataset contains 45,000 instances, with no missing values reported.
 
 ## 3. Research Objectives
 
